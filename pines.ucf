@@ -1,0 +1,26 @@
+#Entradas
+net "clock" loc = "E7";
+net "en1" loc = "C4";
+net "en2" loc = "D6";
+#net "sensor1" loc = "C10";
+#net "sensor2" loc = "D13";
+#net "sensor3" loc = "E2";
+net "sensor1" loc = "L1";
+net "sensor2" loc = "N2";
+net "sensor3" loc = "P5";
+
+#Leds
+net "salsl(0)" loc = "N14";
+net "salsl(1)" loc = "N7";
+net "salsl(2)" loc = "N5";
+net "salsl(3)" loc = "R13";
+net "led(0)" loc = "R9";
+net "led(1)" loc = "N8";
+
+#Salidas reales
+net "buz2" loc = "C8";
+net "buz" loc = "R6";#C8
+net "sals(0)" loc = "B13";
+net "sals(1)" loc = "B15";
+net "sals(2)" loc = "D15";
+net "sals(3)" loc = "F15";
