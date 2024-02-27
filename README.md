@@ -10,3 +10,5 @@ Además se tienen 5 leds indicadores que nos ayudan a visualizar el sentido de g
 Para una referencia más visual a continuación está un link a un video demostrativo del código funcionando:
 
 https://www.youtube.com/watch?v=fx5JQTpT9iA
+
+La placa de desarrollo en la que se implementó el trabajo es la Amiba2 de la marca mexicana intesc que tiene una FPGA Spartan6.
