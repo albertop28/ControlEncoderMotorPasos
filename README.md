@@ -6,6 +6,7 @@ Además de esto el código tiene implementado 3 sensores de posición pensados e
 
 -2 para señal de límite de carrera para prohibir el giro más allá de cierto punto de prescencia
 
-Además y se tienen 5 leds indicadores que nos ayudan a visualizar el giro del motor y la activación de las bobinas del motor.
+Además se tienen 5 leds indicadores que nos ayudan a visualizar el sentido de giro del motor y la activación de las bobinas (4 en este caso, activandose a medios pasos).
 Para una referencia más visual a continuación está un link a un video demostrativo del código funcionando:
+
 https://www.youtube.com/watch?v=fx5JQTpT9iA
